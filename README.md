@@ -1,3 +1,10 @@
+
+NOME DA EQUIPE:
+MARCOS HENRIQUE JERONIMO FERNANDES
+MATEUS ZANIN FERNANDES
+
+
+
 # User Management (Refatoração focada em dependências)
 
 Este projeto refatora um sistema simples de gerenciamento de usuários com os objetivos de:
